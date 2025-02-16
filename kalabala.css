@@ -1,9 +1,10 @@
 body{
     background: linear-gradient(to left, blue, darkblue);
 }
-h2, h3, a, p, li, strong{
+h2, h3, h4, a, p, li, strong{
     color: white;
     text-decoration: none;
+    
 }
 footer{
     background-color: black;
@@ -35,4 +36,7 @@ strong{
 }
 .navbar-brand{
     font-size: 20px;
+}
+a{
+    text-decoration: white;
 }
